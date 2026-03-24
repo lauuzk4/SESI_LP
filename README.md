@@ -1,7 +1,7 @@
 # COMANDOS DO GIT BASH
 
 ## -GIT STATUS 
-_DIZ SE A ALTERAÇÃO DO ARQUIVO ESTA SALVA OU NÃO_
+_Diz se a alteração do arquivo esta salva ou não_
 
 ## -GIT ADD NOME-DO-ARQUIVO
-_SALVA O ARQUIVO_ 
+_Salva o arquivo_ 
