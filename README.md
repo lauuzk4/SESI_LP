@@ -1,5 +1,5 @@
 # COMANDOS DO GITBASH
-## GIT CONFIG --LIST
+### GIT CONFIG --LIST
 _Lista as configurções do git bash_
 
 
