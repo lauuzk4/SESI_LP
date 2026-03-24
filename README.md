@@ -1,15 +1,15 @@
 # COMANDOS DO GITBASH
-## GIT CONFIG --LIST
+  ## GIT CONFIG --LIST
 _Lista as configurções do git bash._
 
-## GIT CONFIG --GLOBAL USER.NOME "NOME"
+  ## GIT CONFIG --GLOBAL USER.NOME "NOME"
 _Configura o nome do usuário._
 
-## GIT CONFIG --GLOBAL USER.EMAIL "E-MAIL"
+  ## GIT CONFIG --GLOBAL USER.EMAIL "E-MAIL"
 _Configura o e-mail do usuário._
 
 # COMANDO NO TERMINAL(DESKTOP)
-## GIT CLONE LINK_DO_REPOSITÓRIO
+  ## GIT CLONE LINK_DO_REPOSITÓRIO
 _Abrir pasta na Área de Trabalho_
 
 
