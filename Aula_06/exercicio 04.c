@@ -15,8 +15,8 @@ int main() {
 	        scanf("%i",&numero[l][c]);
 	           if(numero[l][c] > 10){
 	            num_10++;
-	            printf("existem %i numeros maior que 10.", num_10);
 	    } 	
 	   }
-	}
+	}  
+	    printf("existem %i numeros maior que 10.", num_10);
 }
